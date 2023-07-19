@@ -24,4 +24,8 @@ jobs:
           
       - name: execute py script # run main.py
         run: python main.py
+<<<<<<< HEAD
           
+=======
+          
+>>>>>>> a7e9aa9a0d832efc818d42a92e128291c9dbe916
