@@ -12,7 +12,7 @@ URL = 'https://www.spicinemas.in/moviesessions/Chennai/OPPENHEIMER/NHO00021362?l
 
 # Twilio credentials
 TWILIO_ACCOUNT_SID = 'AC8331ee5f766dec59c925241dbce18ee8'
-TWILIO_AUTH_TOKEN = 'c626fac4733e72b85b23cfc7b506962d'
+TWILIO_AUTH_TOKEN = '12cda1712a7a93467ade519663bb3e40'
 TWILIO_PHONE_NUMBER = '+14066428904'
 YOUR_PHONE_NUMBER = '+917550119733'  # The phone number to which the message will be sent
 
